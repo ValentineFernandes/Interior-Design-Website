@@ -61,3 +61,7 @@
 ## 👩‍💻 IDE
 
 <img src="https://img.shields.io/badge/Atom-00FF7F?style=for-the-badge&logo=Atom&logoColor=white" />
+
+## LICENSE
+
+This project is under<a href="https://github.com/ValentineFernandes/Interior-Design-Website/blob/main/LICENSE"> MIT </a> license.
