@@ -39,6 +39,6 @@
 
 <br />
 <div align="center">
-<img src="idesignlayout.png" width="600">
+<img src="https://github.com/ValentineFernandes/ValentineFernandes/blob/main/Portfolio/idesignlayout.png" width="600">
 </div>
 
