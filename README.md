@@ -62,8 +62,9 @@
 
 <img src="https://img.shields.io/badge/Atom-00FF7F?style=for-the-badge&logo=Atom&logoColor=white" />
 
-## Visit the website here
-https://valentinefernandes.github.io/Interior-Design-Website/
+## 🌐 Visit the website here
+<a href="https://valentinefernandes.github.io/Interior-Design-Website/">
+<img width="40" height="40" src="https://github.com/ValentineFernandes/ValentineFernandes/blob/main/Portfolio/github.png"></a>
 
 ## 📕 LICENSE
 
