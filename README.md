@@ -25,6 +25,7 @@
 <img alt="GitHub Forks" src="https://img.shields.io/github/forks/ValentineFernandes/Interior-Design-Website?color=yellow" />
 <img alt="Stars" src= "https://img.shields.io/github/stars/ValentineFernandes/Interior-Design-Website?color=yellow" />
 <img alt= "Watchers" src="https://img.shields.io/github/watchers/ValentineFernandes/Interior-Design-Website?color=yellow" />
+  
 <img alt= "Last commit" src="https://img.shields.io/github/last-commit/ValentineFernandes/Interior-Design-Website?color=yellow" />
 </p>
 
